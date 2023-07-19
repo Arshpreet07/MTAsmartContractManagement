@@ -1,4 +1,14 @@
 # MTAsmartContractManagement
+
+In this project, we connect our contract with frontend and access the metamask using hardhat network.
+
+## Description
+we make a smart contract and deploy it on a react.js frontend and on the hardhat network we do some transactions.
+
+
+### Executing program
+
+
 After cloning the github, you will want to do the following to get the code running on your computer.
 
 Inside the project directory, in the terminal type: npm i
@@ -9,3 +19,10 @@ Back in the first terminal, type npm run dev to launch the front-end.
 
 
 After this, the project will be running on your localhost. Typically at http://localhost:3000/
+
+
+## Authors
+Arshpreet Singh
+@Arshpreet07
+
+
